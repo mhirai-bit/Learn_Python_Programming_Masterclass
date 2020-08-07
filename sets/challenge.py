@@ -1,0 +1,5 @@
+string = set(input("please type some texts"))
+vowels = set(["a","b","c","d","e"])
+print(string - vowels)
+ans = sorted(string - vowels)
+print(ans)
