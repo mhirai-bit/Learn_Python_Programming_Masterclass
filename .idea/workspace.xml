@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfcd36d6-a058-4e94-aab6-ccb6baad3bbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MusicBrowser/backwards.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusicBrowser/star_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/center_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/centore_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/challenge1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/challenge2-challenges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/challenge2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/checkdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/compchallenge2b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/condcomp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/condcomp1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/contacts.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/contacts2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/createDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/genexample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/listcomp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/listfor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/nested1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/nested_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_text/timeitchallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genexample/fibgen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genexample/filegen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genexample/music.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genexample/pigen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genexample/scratchpad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusicBrowser/jukebox.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusicBrowser/jukebox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/createDB.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fzHghJM0jUV0jt0DeZWJHlLkK2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfcd36d6-a058-4e94-aab6-ccb6baad3bbb" name="Default Changelist" comment="" />
+      <created>1597214114192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597214114192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1042" y="152" key="FileChooserDialogImpl" timestamp="1597214159060">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1042" y="152" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1597214159060" />
+    <state x="879" y="139" key="NewModule_or_Project.wizard" timestamp="1597214164144">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="879" y="139" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1597214164144" />
+  </component>
+</project>
